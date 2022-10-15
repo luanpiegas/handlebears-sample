@@ -1,0 +1,9 @@
+@import 'style.scss'; // Custom
+@import 'variables.scss'; // Variables
+
+@import "../node_modules/bootstrap/scss/bootstrap"; // Required
+@import "../node_modules/bootstrap/scss/functions"; // Required
+@import "../node_modules/bootstrap/scss/variables"; // Required
+@import "../node_modules/bootstrap/scss/mixins";    // Required
+@import "../node_modules/bootstrap/scss/root";      // Required
+@import "../node_modules/bootstrap/scss/reboot";    // Required

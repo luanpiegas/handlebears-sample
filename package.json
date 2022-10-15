@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "sass": "sass --watch css/main.scss dist/main.css"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "handlebars": "^4.7.7"
+  }
+}
